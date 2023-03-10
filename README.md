@@ -20,5 +20,5 @@ Follow and join us in this journey
 
 <br>
 
-<a href= "https://rafaelcoias.com" align="center"><img align="center" src="https://img.shields.io/badge/-Website-blue" height="28px"></a> 
+<a href= "https://visiond.pt" align="center"><img align="center" src="https://img.shields.io/badge/-Website-blue" height="28px"></a> 
 </div>
